@@ -109,16 +109,25 @@ img {
     background-color: #3882f6;
     border-radius: 4px;
     color: #F9FAF8;
-    padding: 22px;
+    padding: 44px;
     justify-content: space-around;
 }
 
 .container-btn {
     background-color: #3882f6;
     color: #F9FAF8;
-    padding: 5px 20px;
+    padding: 3px 25px;
     border: 2px solid #F9FAF8;
     border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    padding: 50px;
+    color: #F9FAF8;
 }
 
 * {

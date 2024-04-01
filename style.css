@@ -100,6 +100,27 @@ img {
     align-self: flex-end;
 }
 
+.bottom-container {
+    padding: 88px 111px;
+}
+
+.container-text {
+    display: flex;
+    background-color: #3882f6;
+    border-radius: 4px;
+    color: #F9FAF8;
+    padding: 22px;
+    justify-content: space-around;
+}
+
+.container-btn {
+    background-color: #3882f6;
+    color: #F9FAF8;
+    padding: 5px 20px;
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+}
+
 * {
     /* outline: 2px solid red; */
     padding: 0 0;
